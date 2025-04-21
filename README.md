@@ -1,3 +1,7 @@
+# 💫 About Me:
+👋 Hi there, I'm Samuel Bempah!<br>I'm a passionate tech enthusiast, currently in my third year pursuing a BSc in Information Technology. I’m also the founder of SBMind Technologies, where I focus on building creative digital solutions and exploring the power of technology to solve real-world problems.<br><br>💼 Business Owner | SBMind Technologies<br><br>🎓 IT Student | Third Year<br><br>🎧 Music Lover | Always coding with a vibe<br><br>🚀 Passionate about learning new things and growing every day<br><br>🛠️ Currently diving deeper into web development, automation, and innovative software tools
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/boakye_bempah_samuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SamuelBempah) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/one_k_fyb) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@one_k_fyb) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/one_k_fyb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ixy.chase@gmail.com) 
 
