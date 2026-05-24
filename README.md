@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Samuel Bempah!<br>I'm a passionate tech enthusiast, currently in my third year pursuing a BSc in Information Technology. I’m also the founder of SBMind Technologies, where I focus on building creative digital solutions and exploring the power of technology to solve real-world problems.<br><br>💼 Business Owner | SBMind Technologies<br><br>🎓 IT Student | Third Year<br><br>🎧 Music Lover | Always coding with a vibe<br><br>🚀 Passionate about learning new things and growing every day<br><br>🛠️ Currently diving deeper into web development, automation, and innovative software tools
+👋 Hi there, I'm Samuel Bempah!<br>I'm a passionate tech enthusiast, currently in my final year pursuing a BSc in Information Technology. I’m also the founder of SBMind Technologies, where I focus on building creative digital solutions and exploring the power of technology to solve real-world problems.<br><br>💼 Business Owner | SBMind Technologies<br><br>🎓 IT Student | Final Year<br><br>🎧 Music Lover | Always coding with a vibe<br><br>🚀 Passionate about learning new things and growing every day<br><br>🛠️ Currently diving deeper into web development, automation, and innovative software tools
 
 
 ## 🌐 Socials:
